@@ -19,6 +19,7 @@ buildscript {
 
     dependencies {
         classpath 'org.kt3k.gradle.plugin:coveralls-gradle-plugin:2.0.1x'
+        classpath "com.jfrog.bintray.gradle:gradle-bintray-plugin:1.7.3"
     }
 }
 
